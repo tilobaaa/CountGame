@@ -1,0 +1,39 @@
+body{
+  text-align: center;
+}
+
+p{
+  font-size: 2rem;
+}
+
+h1{
+  font-size: 3rem;
+  display: block;
+}
+
+button{
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10%;
+  border-style: solid;
+  
+}
+
+.btn{
+  display: block;
+}
+
+.decrease{
+  background-color: red;
+  color: black;
+}
+
+.increase{
+  background-color: green;
+  color: black;
+}
+
+.reset{
+  background-color: white;
+  color: black;
+}
